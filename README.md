@@ -1,10 +1,12 @@
-<div align="center">
-    <img width="500px" align="center" src="https://user-images.githubusercontent.com/54639269/89223832-dd796380-d5ad-11ea-9a39-fc852538ca13.png"></img>
-</div>
+![thumbnail](.github/thumbnail.png)
 
 <p align="center">
     Online teaching platform made with React Native using Typescript during the<a src="https://nextlevelweek.com"> NLW (Next Level Week) #02</a>🚀
 </p>
+
+## Layout:
+
+![expand](.github/expand.png)
 
 
 ### Content
@@ -13,7 +15,6 @@
     * [Requirements](#Requirements)
         * [Web](#Web)
         * [Server](#Server)
-        * ~~Mobile~~
     * [Running](#Running)
 * [Issues](#Issues-)
     * [Report](#Report)
